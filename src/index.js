@@ -28,6 +28,7 @@ exports.max = function max (array) {
 	}
 	return max;
 }
+    
 
 exports.avg = function avg (array) {
 
